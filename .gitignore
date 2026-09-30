@@ -7,3 +7,18 @@ __pycache__/
 !.env.example
 .vscode/
 .idea/
+# WhatsApp persistent browser session
+whatsapp_session/
+
+# Generated screenshots
+screenshots/
+
+# Generated reports
+reports/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel input file
+contacts.xlsx
