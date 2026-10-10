@@ -1,0 +1,8 @@
+
+langchain
+langchain-community
+langsmith
+faiss-cpu
+langchain-huggingface
+langchain-openai
+python-dotenv
