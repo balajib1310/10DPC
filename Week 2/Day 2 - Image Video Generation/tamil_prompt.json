@@ -1,0 +1,34 @@
+{
+  "subject": "A Tamil woman arranging a traditional kolam at the entrance of a Chettinad home, wearing an authentic Kanchipuram silk saree with a neatly draped pallu and traditional gold jewellery; natural, candid expression",
+  "setting": {
+    "place": "A traditional Chettinad courtyard house in the Sivaganga region of Tamil Nadu, with an open central courtyard, carved wooden doors, and Athangudi tile flooring",
+    "era": "Present day, preserving traditional Chettinad architecture and customs",
+    "time_of_day": "Margazhi dawn, just after sunrise"
+  },
+  "lighting": "Soft, natural early-morning light with gentle shadows; realistic skin tones and balanced exposure",
+  "camera": {
+    "shot": "Medium-wide environmental shot showing the woman, kolam, and courtyard",
+    "lens": "35mm lens, natural perspective",
+    "angle": "Eye-level, slightly diagonal view into the courtyard"
+  },
+  "palette": [
+    "deep maroon",
+    "antique gold",
+    "warm terracotta",
+    "ivory white",
+    "muted teal"
+  ],
+  "style": "Photorealistic documentary photography, respectful cultural detail, natural textures, believable proportions, no exaggerated postcard aesthetic",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "generic North Indian palace architecture",
+    "incorrect or fantasy costume details",
+    "extra fingers or distorted hands",
+    "plastic-looking skin",
+    "unreadable text or watermarks",
+    "oversaturated colours",
+    "stereotyped or exaggerated cultural props",
+    "crowded background",
+    "cartoon or illustration style"
+  ]
+}
