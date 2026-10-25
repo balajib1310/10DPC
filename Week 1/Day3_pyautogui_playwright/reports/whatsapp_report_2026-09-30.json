@@ -1,0 +1,18 @@
+{
+    "generated_at": "2026-09-30T23:15:20.692142",
+    "total_contacts": 1,
+    "successful": 0,
+    "failed": 1,
+    "results": [
+        {
+            "name": "Test User",
+            "phone": "+919999999999",
+            "message": "Hello Test User, this is a Playwright automation test.",
+            "status": "FAILED",
+            "error": "Could not open the WhatsApp chat or message box was not found.",
+            "last_3_messages": [],
+            "screenshot": "",
+            "processed_at": "2026-09-30T23:15:16.417703"
+        }
+    ]
+}
